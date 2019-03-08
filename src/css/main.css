@@ -29,7 +29,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 19px;
-  margin: 126px 0px 245px 0px; }
+  margin: 126px 0px 50px 0px; }
   .page1-contents .page1-inner {
     background-color: #ebf3f8;
     padding: 30px 40px;
