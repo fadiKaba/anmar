@@ -1,0 +1,48 @@
+body {
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif; }
+
+.main-container {
+  width: 100%;
+  padding: 123px 140px 60px 140px; }
+  .main-container header .icon-div {
+    height: 168.54px;
+    width: 428.32px;
+    background: lavender;
+    margin: 0px auto 59px auto; }
+  .main-container #navbarNavAltMarkup {
+    justify-content: center; }
+    .main-container #navbarNavAltMarkup .navbar-nav a {
+      margin-left: 44px;
+      font-size: 2rem;
+      text-transform: uppercase;
+      color: #36a0c6; }
+  .main-container .down-icon {
+    text-align: center; }
+    .main-container .down-icon .icon-btn {
+      border: none;
+      background: transparent; }
+      .main-container .down-icon .icon-btn i {
+        color: #ebf3f8;
+        border-color: #000; }
+
+.page1-contents {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 19px;
+  margin: 126px 0px 245px 0px; }
+  .page1-contents .page1-inner {
+    background-color: #ebf3f8;
+    padding: 30px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 29px; }
+    .page1-contents .page1-inner h2 {
+      font-size: 2rem;
+      text-align: center;
+      color: #36a0c6;
+      font-weight: 400; }
+    .page1-contents .page1-inner p {
+      font-size: 2rem;
+      text-align: center;
+      margin-top: 10px; }
